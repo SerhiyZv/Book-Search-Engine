@@ -1,7 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Full stack MERN application for searching Google Books API",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -10,8 +10,8 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Serhiy Zvedenyuk",
+  "license": "MIT",
   "devDependencies": {
     "concurrently": "^5.1.0"
   }
