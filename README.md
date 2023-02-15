@@ -10,7 +10,7 @@
 * [Installation](#Installation)
 * [Live Application](#live-application)
 * [License](#License)
-* [Screenshots]](#Screenshots)
+* [Screenshots](#Screenshots)
 
 ## Overview
 
