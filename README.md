@@ -48,5 +48,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Screenshots
 
 ![Screenshot01](./screenshots/Screenshot01.jpg)
-![Screenshot02](./screenshots/Screenshot01.jpg)
-![Screenshot03](./screenshots/Screenshot01.jpg)
+![Screenshot02](./screenshots/Screenshot02.jpg)
+![Screenshot03](./screenshots/Screenshot03.jpg)
