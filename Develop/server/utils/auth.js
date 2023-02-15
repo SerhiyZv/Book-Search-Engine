@@ -2,8 +2,8 @@ require('dotenv').config();
 const jwt = require('jsonwebtoken');
 
 // set token secret and expiration date
-const secret = process.env.TOKEN_SECRET;
-const expiration = process.env.TOKEN_EXP;
+const secret = process.env.JWT_SECRET || "mysecretsshhhhh";
+const expiration = '2h';
 
 module.exports = {
   // function for our authenticated routes
@@ -27,7 +27,7 @@ module.exports = {
     // send to next endpoint
     return req;
   },
-  
+
   // Create a signed token
   signToken: function ({ firstName, lastName, email, _id }) {
     const payload = { firstName, lastName, email, _id };
