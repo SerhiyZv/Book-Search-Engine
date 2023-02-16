@@ -35,7 +35,7 @@ To run this application on your local machine, Node.js is _required_. Once clone
 
 ## Live Application
 
-
+[View the live application](https://book-search-engine-sz.herokuapp.com/) in Heroku
 
 ## License
 
